@@ -1,0 +1,30 @@
+.carousel-item>.container {
+    height: 80vh;
+    margin-top: 3vh;
+}
+
+.cardRow {
+    height: 100vh;
+}
+
+.row>.col-8,
+.row>.col-4 {
+    align-self: center;
+    margin-bottom: 20vh;
+}
+
+.heading {
+    text-align: center;
+    vertical-align: auto;
+    font-size: 5rem;
+}
+
+.info {
+    text-align: center;
+    vertical-align: center;
+    font-size: large;
+}
+
+.heading2 {
+    text-align: center;
+}
